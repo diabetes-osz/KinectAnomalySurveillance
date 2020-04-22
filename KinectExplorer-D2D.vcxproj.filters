@@ -69,4 +69,9 @@
       <UniqueIdentifier>{aa99c218-4fbf-4bd6-89c6-04617058fcf6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\KASIcon.ico">
+      <Filter>Images</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
